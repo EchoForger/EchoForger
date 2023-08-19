@@ -23,6 +23,6 @@
     <td>Phone: 13628634368</td>
   </tr>
   <tr>
-    <td colspan="2"><a href="mailto:wuhaonan@hust.edu.cn">wuhaonan@hust.edu.cn</a></td>
+    <td colspan="4"><a href="mailto:wuhaonan@hust.edu.cn">wuhaonan@hust.edu.cn</a></td>
   </tr>
 </table>
