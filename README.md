@@ -22,6 +22,6 @@
     <td>WeChat: EchoForger</td>
   </tr>
   <tr>
-    <td colspan="2">[ <a href="https://echoforger.github.io/CV/吴皓楠简历 华中科技大学 硕士.pdf" target="_blank" rel="noopener noreferrer">吴皓楠简历 华中科技大学 硕士（中文版）</a> ]</td>
+    <td colspan="2">Resume: [ <a href="https://echoforger.github.io/CV/吴皓楠简历 华中科技大学 硕士.pdf" target="_blank" rel="noopener noreferrer">吴皓楠简历 华中科技大学 硕士（中文版）</a> ]</td>
   </tr>
 </table>
