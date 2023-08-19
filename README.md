@@ -10,19 +10,18 @@
 
 <table>
   <tr>
-    <td colspan="3">📫 Stay connected</td>
+    <td colspan="2">📫 Stay connected</td>
   </tr>
   
   <tr>
-    <td colspan="3">Personal Website: <a href="https://echoforger.github.io/">echoforger.github.io</a></td>
+    <td colspan="2">Personal Website: <a href="https://echoforger.github.io/">echoforger.github.io</a></td>
   </tr>
   
   <tr>
-    <td><a href="mailto:wuhaonan@hust.edu.cn">wuhaonan@hust.edu.cn</a></td>
+    <td>Email: <a href="mailto:wuhaonan@hust.edu.cn">wuhaonan@hust.edu.cn</a></td>
     <td>WeChat: EchoForger</td>
-    <td>Phone: 13628634368</td>
   </tr>
   <tr>
-    <td colspan="3">[ <img src="https://echoforger.github.io/Resource/pdf.png" alt="" width="15.2" height="19">&nbsp<a href="https://echoforger.github.io/CV/吴皓楠简历 华中科技大学 硕士.pdf" target="_blank" rel="noopener noreferrer">吴皓楠简历 华中科技大学 硕士（中文版）</a> ]</td>
+    <td colspan="2">[ <a href="https://echoforger.github.io/CV/吴皓楠简历 华中科技大学 硕士.pdf" target="_blank" rel="noopener noreferrer">吴皓楠简历 华中科技大学 硕士（中文版）</a> ]</td>
   </tr>
 </table>
